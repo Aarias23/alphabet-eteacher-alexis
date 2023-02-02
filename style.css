@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url(../img/alphabet-letters.avif);
+    background-image: url('alphabet-letters.avif');
     background-size: cover;
     background-size: contain;
     width: 100%;
